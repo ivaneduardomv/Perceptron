@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1547708913 source:d:\codeblocksprojects\perceptron\main.cpp
+	<iostream>
+	"MyDefines.h"
+	"Perceptron.h"
+	"Layer.h"
+	"Trainers.h"
+
+1547702818 d:\codeblocksprojects\perceptron\perceptron.h
+	<iostream>
+	<random>
+	<chrono>
+	"MyDefines.h"
+
+1547707964 source:d:\codeblocksprojects\perceptron\perceptron.cpp
+	"Perceptron.h"
+
+1547707854 source:d:\codeblocksprojects\perceptron\layer.cpp
+	"Layer.h"
+
+1547707308 d:\codeblocksprojects\perceptron\layer.h
+	"MyDefines.h"
+	"Perceptron.h"
+
+1547706052 d:\codeblocksprojects\perceptron\mydefines.h
+
+1547704183 d:\codeblocksprojects\perceptron\trainers.h
+	"MyDefines.h"
+	"Perceptron.h"
+	"Layer.h"
+
+1547709069 source:d:\codeblocksprojects\perceptron\trainers.cpp
+	"Trainers.h"
+
